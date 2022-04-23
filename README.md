@@ -27,3 +27,6 @@ Get-AzResourceProvider -ProviderNamespace Microsoft.Compute, Microsoft.KeyVault,
 Where-Object RegistrationState -ne Registered |
 Register-AzResourceProvider
 ![image](https://user-images.githubusercontent.com/102250876/162426716-446bc468-411e-406f-b59a-69b28258eec0.png)
+
+Adding Changes from VS Code Using Myfirst-feature Branch
+sdlkajsf
